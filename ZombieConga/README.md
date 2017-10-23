@@ -2,7 +2,7 @@
 
 ## Overview:
 
-<img src="https://github.com/dschrijn/SpriteKit/blob/master/ZombieConga/images/zc1.jpg" width="350" height="180"> <img src="https:https://github.com/dschrijn/SpriteKit/blob/master/ZombieConga/images/zc3.png" width="350" height="180"> <img src="https://github.com/dschrijn/SpriteKit/blob/master/ZombieConga/images/zc2.png" width="350" height="180">
+<img src="https://github.com/dschrijn/SpriteKit/blob/master/ZombieConga/images/zc1.jpg" width="350" height="180"> <img src="https://github.com/dschrijn/SpriteKit/blob/master/ZombieConga/images/zc3.png" width="350" height="180"> <img src="https://github.com/dschrijn/SpriteKit/blob/master/ZombieConga/images/zc2.png" width="350" height="180">
 
 ### Overview:
 
